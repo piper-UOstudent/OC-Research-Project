@@ -1,6 +1,4 @@
-# OC-Research-Project
-
-<!DOCTYPE html> 
+# Skeleton of Eventual Data Vizualizer for Tumblr OC Posts
 <html lang="en">
     <head>
         <meta charset="UTF-8">
