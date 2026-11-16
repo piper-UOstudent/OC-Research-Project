@@ -22,7 +22,6 @@
             <br>
         <b>[COLOR FREQUENCY MAP]</b> <br>
             <small><i>Chart of most used colors, both individual colors and color palettes. Maybe a seperate section for skin colors</i></small>
-
         </p>
     </body>
 </html>
