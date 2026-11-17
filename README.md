@@ -2,12 +2,10 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Skeleton of Eventual Data Vizualizer for Tumblr OC Posts</title>
     </head>
     <body>
-        <h1>Data Exploration of Tumblr OC Posts</h1>
         <p>Hello! This is a website skeleton for what will eventually be a data vizualization of most used tags and words associated with OC posts on tumblr.com. Right now, its quite empty because I want the scope of it to grow as I develop it. 
-            <br>
+            <br> Currently, I am trying to connect this to Tumblr's official API
             <br>
             <br>
         <b>[MOST COMMON CO-OCCURRING TAGS]</b> <br>
